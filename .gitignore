@@ -1,3 +1,5 @@
 # Module 03 ignore rules
 *.log
 __pycache__/
+
+work/module-03-report.md
